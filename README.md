@@ -21,3 +21,10 @@ npm run dev
 
 - [**vite** 번들러: react-ts 템플릿](https://ko.vite.dev/guide/#trying-vite-online)
 - [**FSD** 폴더 구조: IT bookstore 템플릿 예제](https://feature-sliced.design/kr/examples)
+
+#### repo 구조
+
+- **kickStart_application-FE**
+  - **kickStart_template-FE** 기반으로 작성된 예제 프로젝트입니다.
+- **kickStart_template-FE**
+  - react 19 (FSD 폴더 구조 + shadcn 구조) 기반으로 작성된 템플릿 시작 프로젝트입니다.
