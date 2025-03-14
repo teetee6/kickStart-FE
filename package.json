@@ -1,0 +1,8 @@
+{
+  "name": "kickstart-fe",
+  "private": true,
+  "workspaces": [
+    "kickStart_application-FE",
+    "kickStart_template-FE"
+  ]
+}
